@@ -18,6 +18,10 @@ A new and updated react portfolio!!!!
 
 Link to [Deploy]
 
+## Image 
+
+![screenshot](./src/assets/screenshotportfolio.png)
+
 ## License
 
 MIT
